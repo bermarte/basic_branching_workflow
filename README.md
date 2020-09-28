@@ -26,5 +26,5 @@ Steps to follow
    5. pull the new `master` branch to your computer
    6. continue to the next step 
 </details>
----
+
  
