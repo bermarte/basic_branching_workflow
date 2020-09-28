@@ -72,7 +72,7 @@ We want to learn how GitHub's basic workflow works, learn how to use **branching
 
 ## Step 5: Add file for Bermarte
 
-* Create the `4-bermarte` branch
+* Create the `5-bermarte` branch
 * Switch to that branch
 * Create the `bermarte.md` file
 * Stage the file
@@ -88,5 +88,5 @@ We want to learn how GitHub's basic workflow works, learn how to use **branching
 ## Finish
 * Go back to the README file
 * Change team member's names on the list into links to their new profile pages  
- 
+
 [TOP](#Development%20Strategy)
