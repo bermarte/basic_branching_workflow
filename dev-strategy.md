@@ -1,4 +1,4 @@
-# Development Strategy      
+# Development_Strategy      
 > Group #4  
 
 ## Description of the project
@@ -98,4 +98,4 @@ We want to learn how GitHub's basic workflow works, learn how to use **branching
 * Go back to the README file
 * Change team member's names on the list into links to their new profile pages  
 
-[TOP](#Development%20Strategy)
+[BACK](README.md) [TOP](#Development_Strategy)

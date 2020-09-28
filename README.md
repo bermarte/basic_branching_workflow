@@ -1,7 +1,20 @@
 # basic_branching_workflow
+* Dev strategy: [INFO](dev-strategy.md)
+## Group 4:
+* [Bermarte](bermarte)  
+* [Burak](burak.md)  
+* [Divya](divya.md)  
+* [Kemi](kemi.md) 
+* [Patrick](patrick.md)  
+* [Tiago](tiago.md)  
  
-From https://github.com/HackYourFutureBelgium/incremental-development  
+---
 
+From [HYF](https://github.com/HackYourFutureBelgium/incremental-development)
+<details>
+<summary>
+Steps to follow 
+</summary> 
 
 0. set up your repository and clone it
 1. write a development strategy
@@ -12,5 +25,6 @@ From https://github.com/HackYourFutureBelgium/incremental-development
    4. create a PR & merge the branch to `master`
    5. pull the new `master` branch to your computer
    6. continue to the next step 
+</details>
 ---
-[OPEN](dev-strategy.md) 
+ 
