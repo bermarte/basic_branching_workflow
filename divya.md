@@ -6,4 +6,4 @@ I am a student of HACK YOUR FUTURE BELGIUM Full stack Developer Batch 11-12.
 I am happy that I was able to do a BIG career change at the same time nervous about the new chapter in my life. [My GitHub](https://github.com/Divyasree345)
 
 ---
-[BACK](dev-strategy.md)
+[BACK](README.md#basic_branching_workflow)

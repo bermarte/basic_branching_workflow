@@ -9,4 +9,4 @@ Currently Learning JavaScript and I am also trying to learn React, React, Native
 Looking for help: I'm looking for help with trying to find my first software engineering job in this current job climate. [My GitHub](https://github.com/businan).
 
 ---
-[BACK](dev-strategy.md)
+[BACK](README.md#basic_branching_workflow)

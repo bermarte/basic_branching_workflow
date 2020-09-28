@@ -14,4 +14,4 @@ I'm really happy to bo a part of HYF community.
 HYF is part of my foundation, and now I continue to learn new techniques and tools in web development. It is fun and I am so focused that I forget my lunches.
 
 ---
-[BACK](dev-strategy.md)
+[BACK](README.md#basic_branching_workflow)

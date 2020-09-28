@@ -9,4 +9,4 @@ I am delighted to find opportunity to learn. I'm eager to learn new technology a
 
 **I can do it!**
 ___
-[BACK](dev-strategy.md)
+[BACK](README.md#basic_branching_workflow)
