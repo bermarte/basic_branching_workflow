@@ -79,7 +79,16 @@ We want to learn how GitHub's basic workflow works, learn how to use **branching
 * Commit
 * Switch to Master
 
-## Step 6: Merge Branches
+## Step 6: Add file for Burak
+
+* Create the `6-burak` branch
+* Switch to that branch
+* Create the `burak.md` file
+* Stage the file
+* Commit
+* Switch to Master
+
+## Step 7: Merge Branches
 * Switch to branch x
 * Pull request
 * Switch to Master
