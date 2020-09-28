@@ -1,11 +1,11 @@
 # basic_branching_workflow
 * Dev strategy: [INFO](dev-strategy.md#Development_Strategy)
 ## Group 4:
-* [Bermarte](bermarte.md)  
-* [Burak](burak.md)  
-* [Divya](divya.md)  
-* [Kemi](kemi.md) 
-* [Patrick](patrick.md)  
+* [Bermarte](bermarte.md#Bermarte's_info)  
+* [Burak](burak.md#Burak's_info)  
+* [Divya](divya.md#Divya's_info)  
+* [Kemi](kemi.md#Kemi's_info) 
+* [Patrick](patrick.md#Patrick's_info)  
 * [Tiago](tiago.md)  
  
 ---
