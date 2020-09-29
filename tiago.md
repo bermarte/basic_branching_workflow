@@ -9,4 +9,4 @@ The other days, I try to share that knowledge at [Ruby Belgium](https://rubybelg
 You can reach me on [my Twitter account](https://twitter.com/otagi).
 
 ---
-[BACK](dev-strategy.md)
+[BACK](README.md#basic_branching_workflow)

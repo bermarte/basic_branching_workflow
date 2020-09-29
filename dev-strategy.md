@@ -96,6 +96,8 @@ We want to learn how GitHub's basic workflow works, learn how to use **branching
 
 ## Finish
 * Go back to the README file
-* Change team member's names on the list into links to their new profile pages  
+* Change team member's names on the list into links to their new profile pages 
+
+---
 
 [BACK](README.md#basic_branching_workflow)

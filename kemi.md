@@ -9,5 +9,6 @@ Currently I am one of the new students at [HackYourFuture Belgium](https://hacky
 I am delighted to find opportunity to learn. I'm eager to learn new technology and I aspire to become a programmer, this is [my GitHub](https://github.com/kemmy72).
 
 **I can do it!**
-___
+
+---
 [BACK](README.md#basic_branching_workflow)
